@@ -8,3 +8,6 @@ function addName(){
   kittens.unshift("Bob");
   return kittens;
 }
+function destructivelyRemoveLastKitten(){
+  
+}
