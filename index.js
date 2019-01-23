@@ -9,5 +9,6 @@ function addName(){
   return kittens;
 }
 function destructivelyRemoveLastKitten(){
-  
+  kittens.pop("Garfield");
+  return kittens;
 }
